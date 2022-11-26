@@ -6,3 +6,5 @@ No 'roadmap' de coisas a serem integradas nesse código eu penso em:
 - criar uma classe personagem pra usar métodos mais definidos de OO;
 - ~fazer com que o programa escreva os valores gerados em um pdf de ficha preenchível~;
 - criar uma interface gráfica.
+
+Para testar o código, basta importar o módulo taverna.py e rodar a função aventura().
